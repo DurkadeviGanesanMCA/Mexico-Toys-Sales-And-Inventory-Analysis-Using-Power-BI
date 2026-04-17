@@ -67,9 +67,23 @@ This project analyzes sales and inventory data for Maven Toys across multiple st
 5. Stock Levels
 5. Low / Out-of-Stock Products
 
-### 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-<img src="Dashboard/dashboard-executive .png" alt="Executive Overview" width="1000"/>
+### Sales Analysis Dashboard
+
+
+<img width="1138" height="647" alt="Dashboard-Product Analysis" src="https://github.com/user-attachments/assets/1137ad67-546f-479b-ae14-63359f448759" />
+
+### Store Analysis Dashboard
+
+
+<img width="1138" height="647" alt="Dashboard-Store Analysis" src="https://github.com/user-attachments/assets/1137ad67-546f-479b-ae14-63359f448759" />
+
+### Inventory Analysis Dashboard
+
+
+<img width="1138" height="647" alt="Dashboard-Inventory Analysis" src="https://github.com/user-attachments/assets/1137ad67-546f-479b-ae14-63359f448759" />
+
 
 ### 🔍 Key Insights
 
