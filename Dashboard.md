@@ -1,19 +1,19 @@
-Dashboard
+## Dashboard
 
-Product Analysis
+### Product Analysis
 
 
 
 
 <img width="1138" height="647" alt="Dashboard-Product Analysis" src="https://github.com/user-attachments/assets/1137ad67-546f-479b-ae14-63359f448759" />
 
-Store Analysis
+### Store Analysis
 
 
 
 <img width="1156" height="660" alt="Dashboard-Store Analysis" src="https://github.com/user-attachments/assets/43224ac0-52c0-45a9-81f7-cfb83d1c5bbe" />
 
-Inventory Analysis
+### Inventory Analysis
 
 
 
